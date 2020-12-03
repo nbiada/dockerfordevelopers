@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: Docker for Developers
-description: Come usare _docker_ da sviluppatore
+description: "Come usare _docker_ da sviluppatore"
 author: Nicola Biada
 
 navbar-links:
